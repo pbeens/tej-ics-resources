@@ -1,1 +1,1 @@
-Put Computer Technology related resources in this folder.
+Put Computer Technology related resources in this folder. Feel free to create and use sub-folders, as desired.
