@@ -10,7 +10,7 @@ The Ministry of Education link is:
 
 ## AI-Created Outlines
 
-Here are some quick AI tests done by Sal and Peter B to see how AI could be used to produce outlines to teach the ICD2O course. Have a look at the prompts to see how you could do something like this yourself.
+Here are some quick AI tests done by Sal Iacono and Peter Beens to see how AI could be used to produce outlines to teach the ICD2O course. Have a look at the prompts to see how you could do something like this yourself.
 
 If you are a member of the ACSE mail list you can view the email thread where we discussed this [here](https://groups.google.com/g/acse_discussion/c/ncyD9wky5qw/m/gbaRIEf6AwAJ?utm_medium=email&utm_source=footer).
 
