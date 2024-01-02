@@ -1,5 +1,13 @@
 # ICD2O Resources
 
+## Curriculum
+
+Local copies of the curriculum ([PDF](Computer-Studies-ICD2O-2023.pdf) | [Word](Computer-Studies-ICD2O-2023.docx)) can be found in this folder.
+
+The Ministry of Education link is:
+
+- https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o
+
 ## AI-Created Outlines
 
 Here are some quick AI tests done by Sal and Peter B to see how AI could be used to produce outlines to teach the ICD2O course. Have a look at the prompts to see how you could do something like this yourself.
