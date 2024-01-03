@@ -7,3 +7,7 @@ Please include a README.md file in each folder you create with any licensing res
 If you have a resource to share as a link, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSdC4KX6elZW-vvyEqnpqcwGBy0VaXYKURs_KnoWFI0HTKA29w/viewform). Form results can be viewed in Google Sheets [here](https://docs.google.com/spreadsheets/d/1PNmiliHDAmuDsMOjzll48IWyt5EA_N4kvBAD7iYXBXw/edit#gid=1034220041).
 
 No copyrighted materials! 
+
+## Resources in This Folder
+
+- [Teacher Assignment in Ontario Schools - A Resource Guide (May 2010)](<Teacher Assignment in Ontario Schools - A Resource Guide (May 2010).pdf>)
