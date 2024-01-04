@@ -1,4 +1,4 @@
-_ **Prompt: Please study the Ontario curriculum document for ICD2O "Digital Technology and Innovations in the Changing World, Grade 10" and give me two paragraphs outlining the "big picture" I should know about the course.** _
+ **Prompt: Please study the Ontario curriculum document for ICD2O "Digital Technology and Innovations in the Changing World, Grade 10" and give me two paragraphs outlining the "big picture" I should know about the course.** _
 
 Sure, I'll try to summarize the main points of the course for you.[Here are two paragraphs based on the information from the Ontario curriculum document for ICD2O](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/downloads)[1](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/downloads)[2](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/home):
 
@@ -6,7 +6,7 @@ This course helps students develop cutting-edge digital technology and computer 
 
 The course is divided into four strands: Coding and Programming, Digital Technologies and Innovations, Digital Citizenship and Society, and Career Exploration and Pathways. Each strand covers specific expectations and learning goals that students will achieve by the end of the course. The course also emphasizes the development of transferable skills, such as problem-solving, communication, collaboration, creativity, and innovation, that students can apply in various contexts. The course is designed to be flexible and adaptable to the interests and needs of the students, as well as the resources and facilities available in the school. The course also provides opportunities for cross-curricular and integrated learning, as well as assessment and evaluation of student achievement.
 
-_ **Prompt: Give me an outline of units that I could follow to teach the course. Try to integrate concepts wherever possible. We do not have to teach the expectations outlined in the curriculum in order.** _
+ **Prompt: Give me an outline of units that I could follow to teach the course. Try to integrate concepts wherever possible. We do not have to teach the expectations outlined in the curriculum in order.** _
 
 Here is a possible outline of units that you could follow to teach the course. I have tried to integrate concepts from different strands wherever possible, but you can modify the order and content according to your preferences and resources.
 
@@ -15,7 +15,7 @@ Here is a possible outline of units that you could follow to teach the course. I
 - **Unit 3: Digital Citizenship and Society**. In this unit, students will investigate the ethical, social, and environmental implications of digital technologies and innovations. They will learn about digital citizenship, digital literacy, digital rights and responsibilities, digital security and privacy, digital health and wellness, and digital equity and inclusion. They will also learn how to evaluate the credibility and reliability of digital information and sources, and how to communicate effectively and respectfully in digital environments. They will use their coding skills to create projects that promote or demonstrate digital citizenship and society, such as digital portfolios, digital stories, or digital campaigns. This unit covers expectations from the Digital Citizenship and Society strand and the Coding and Programming strand.
 - **Unit 4: Career Exploration and Pathways**. In this unit, students will explore the various career opportunities and pathways that are related to digital technologies and innovations. They will learn about the skills, education, and experience required for different careers, such as software developer, data analyst, cybersecurity analyst, robotics engineer, or digital media designer. They will also learn how to plan and prepare for their future goals and aspirations, and how to use digital tools and resources to support their learning and career development. They will use their coding skills to create projects that showcase their interests and abilities, such as digital resumes, digital portfolios, or digital presentations. This unit covers expectations from the Career Exploration and Pathways strand and the Coding and Programming strand.
 
-_ **Prompt: Alter your last response to include a list of topics covered after each unit summary paragraph** _
+ **Prompt: Alter your last response to include a list of topics covered after each unit summary paragraph** _
 
 Sure, I can do that. Here is the modified response with a list of topics covered after each unit summary paragraph:
 
@@ -55,7 +55,7 @@ Sure, I can do that. Here is the modified response with a list of topics covered
     - Using digital tools and resources to support learning and career development
     - Projects showcasing interests and abilities
 
-_ **Prompt: Let's concentrate on "Unit 1 - Introduction to Coding and Programming". For each topic you gave me, recommend 1-3 lessons I could do with the students.** _
+ **Prompt: Let's concentrate on "Unit 1 - Introduction to Coding and Programming". For each topic you gave me, recommend 1-3 lessons I could do with the students.** _
 
 Sure, I can do that. Here are some possible lessons you could do with the students for each topic in Unit 1:
 
@@ -67,7 +67,7 @@ Sure, I can do that. Here are some possible lessons you could do with the studen
 - **Debugging tools and strategies**. In this lesson, you could teach the students how to use debugging tools and strategies to identify and fix errors in their code. You could also introduce the concepts of syntax errors, runtime errors, and logic errors, and how to use error messages, print statements, breakpoints, and step-by-step execution to debug their code. You could use examples and exercises to help the students practice debugging skills and develop a problem-solving mindset. You could also use online compilers, such as[Python Compiler](https://www.codecademy.com/) or[Java Compiler](https://www.codecademy.com/), to let the students debug and improve their code.
 - **Simple programs and games**. In this lesson, you could challenge the students to apply their coding skills to create simple programs and games that demonstrate their understanding of the concepts learned in the unit. You could also provide them with some ideas and guidelines for their projects, such as a calculator, a quiz, a hangman game, a tic-tac-toe game, etc. You could use online compilers, such as[Python Compiler](https://www.codecademy.com/) or[Java Compiler](https://www.codecademy.com/), to let the students code and run their projects. You could also encourage them to share and showcase their work with their peers and provide feedback.
 
-_ **Prompt: alter your previous response to provide me with 2 separate lessons for each topic** _
+ **Prompt: alter your previous response to provide me with 2 separate lessons for each topic** _
 
 Sure, I can do that. Here are two possible lessons for each topic in Unit 1:
 
@@ -93,7 +93,7 @@ Sure, I can do that. Here are two possible lessons for each topic in Unit 1:
   - Lesson 1: In this lesson, you could challenge the students to apply their coding skills to create simple programs and games that demonstrate their understanding of the concepts learned in the unit. You could also provide them with some ideas and guidelines for their projects, such as a calculator, a quiz, a hangman game, a tic-tac-toe game, etc. You could use online compilers, such as[Python Compiler](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/downloads) or[Java Compiler](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/home), to let the students code and run their projects.
   - Lesson 2: In this lesson, you could review the students' projects and provide them with feedback and suggestions for improvement. You could also encourage them to share and showcase their work with their peers and provide feedback. You could also introduce the concepts of documentation, commenting, and style, and how they are used to make the code more readable and maintainable. You could use online compilers, such as[Python Compiler](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/downloads) or[Java Compiler](https://www.dcp.edu.gov.on.ca/en/curriculum/computer-studies/courses/icd2o/home), to let the students code and run their projects.
 
-_ **Prompt: Let's concentrate on "Unit 2 - Digital Technologies and Innovations". For each topic you gave me, provide me with 2 or 3 separate lessons I could do with the students.** _
+ **Prompt: Let's concentrate on "Unit 2 - Digital Technologies and Innovations". For each topic you gave me, provide me with 2 or 3 separate lessons I could do with the students.** _
 
 Sure, I can do that. Here are some possible lessons you could do with the students for each topic in Unit 2:
 
@@ -118,7 +118,7 @@ Sure, I can do that. Here are some possible lessons you could do with the studen
   - Lesson 2: In this lesson, you could teach the students how to use coding and programming skills to create and implement internet of things and smart devices projects. You could also introduce the students to some of the common protocols and platforms of internet of things and smart devices, such as Bluetooth, Wi-Fi, MQTT, HTTP, etc. You could use examples and exercises to help the students learn how to use these protocols and platforms and apply them to different problems and scenarios. You could also use online platforms, such as [IFTTT] or [ThingSpeak], to let the students code and run their own internet of things and smart devices projects.
   - Lesson 3: In this lesson, you could help the students evaluate the benefits and limitations of
 
-_ **Prompt: continue** _
+ **Prompt: continue** _
 
 Sure, I will continue with the lesson 3 for each topic in Unit 2:
 
@@ -132,7 +132,7 @@ Sure, I will continue with the lesson 3 for each topic in Unit 2:
   - Lesson 1: In this lesson, you could challenge the students to apply their coding skills and knowledge of digital technologies and innovations to create projects that use or simulate some of the digital technologies that they have learned in the unit. You could also provide them with some ideas and guidelines for their projects, such as a chatbot, a face recognition system, a data analysis tool, a smart home device, a virtual reality game, etc. You could use online platforms, such as [Google Colab] or [Tableau Public], to let the students code and run their projects.
   - Lesson 2: In this lesson, you could review the students' projects and provide them with feedback and suggestions for improvement. You could also encourage them to share and showcase their work with their peers and provide feedback. You could also introduce the concepts of documentation, commenting, and style, and how they are used to make the code more readable and maintainable. You could use online platforms, such as [Google Colab] or [Tableau Public], to let the students code and run their projects.
 
-_ **Prompt: Let's concentrate on "Unit 3 - Digital Citizenship and Society". For each topic you gave me, provide me with 2 separate lessons I could do with the students.** _
+ **Prompt: Let's concentrate on "Unit 3 - Digital Citizenship and Society". For each topic you gave me, provide me with 2 separate lessons I could do with the students.** _
 
 Sure, I can do that. Here are some possible lessons you could do with the students for each topic in Unit 3:
 
@@ -162,7 +162,7 @@ Sure, I can do that. Here are some possible lessons you could do with the studen
   - Lesson 1: In this lesson, you could challenge the students to apply their coding skills and knowledge of digital citizenship and society to create projects that promote or demonstrate their understanding of the concepts and skills learned in the unit. You could also provide them with some ideas and guidelines for their projects, such as a digital portfolio, a digital story, a digital campaign, etc. You could use online platforms, such as [Google Sites] or [Wix], to let the students code and run their projects.
   - Lesson 2: In this lesson, you could review the students' projects and provide them with feedback and suggestions for improvement. You could also encourage them to share and showcase their work with their peers and provide feedback. You could also introduce the concepts of documentation, commenting, and style, and how they are used to make the code more readable and maintainable. You could use online platforms, such as [Google Sites] or [Wix], to let the students code and run their projects.
 
-_ **Prompt: Let's concentrate on "Unit 4 -** _ _ **Career Exploration and Pathways** __ **". For each topic you gave me, provide me with 2 separate lessons I could do with the students.** _
+ **Prompt: Let's concentrate on "Unit 4 -** _ _ **Career Exploration and Pathways** __ **". For each topic you gave me, provide me with 2 separate lessons I could do with the students.** _
 
 Sure, I can do that. Here are some possible lessons you could do with the students for each topic in Unit 4:
 
